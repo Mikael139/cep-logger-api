@@ -47,14 +47,6 @@ O objetivo do desafio foi construir uma aplicação que:
 
 ---
 
-### Passos para rodar
-
-1. **Clone o repositório:**
-
-```bash
-git clone https://github.com/Mikael139/cep-logger-api.git
-cd cep-logger-api
-
 ## Endpoints principais
 
 | Método | URL               | Descrição                                | Autenticação? |
@@ -76,3 +68,13 @@ cd cep-logger-api
 - Aplicação segue os conceitos básicos do SOLID para manter código limpo e modular.
 
 <img width="540" height="417" alt="image" src="https://github.com/user-attachments/assets/25ad920a-9dd7-454d-9efa-85aac41efc40" />
+
+### Passos para rodar
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/Mikael139/cep-logger-api.git
+cd cep-logger-api
+
+
