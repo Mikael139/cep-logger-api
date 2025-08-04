@@ -67,6 +67,7 @@ O objetivo do desafio foi construir uma aplicação que:
 - Logs de cada consulta são armazenados no MongoDB com horário e resposta.
 - Aplicação segue os conceitos básicos do SOLID para manter código limpo e modular.
 
+## Exemplo básico de como deve funcionar a aplicação:
 <img width="540" height="417" alt="image" src="https://github.com/user-attachments/assets/25ad920a-9dd7-454d-9efa-85aac41efc40" />
 
 ### Passos para rodar
